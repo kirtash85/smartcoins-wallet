@@ -1,0 +1,73 @@
+La volatilitat de les monedes digitals ja és cosa del passat! Les smartcoins són fitxes que estàn lligades al mercat de les monedes fiduiciaries individuals, com ara el dòlar dels EUA , l'euro, el Yuan, el Franc i altres actius com empreses, índexs, l'or i el petroli. Milers de comerciants, inversors i estalviadors utilitcen ja Smartcoins per comprar i vendre  béns i serveis al voltant de tot el món.
+
+Smartcoins treballa ara amb tots el comerciants BlockPay habilitats en tot el món!
+ » Enviar i rebre Smartcoins (bitBTC, bitUSD, bitEUR, bitSILVER, etc)
+»  Enviar i rebre actius emesos a usuaris (UIAs) – (STALTH, NIKKEI, COFFEE, FISTBUMP, etc.)
+»  Rep eReceipts de forma automàtica a travès de codis QR.
+»  Rep punts de fidelitat (similars als de les targetes de recompensa) dels comerços participants.
+»  Protecció contra  sobregirs . S'inclou per si de cas (pot ser retirat d'un dels seus actius reserva)
+»  Seguretat absoluta; Graphene basat del Blockchain, P2P Encryption, BrainKey, Còpies de seguretat de l'auto xifratge, verificacióons d'autotencament i PIN (si es desitja)
+»  Utilitza  els codis QR per a enviar/rebre fons.
+ » Es mostren els valors FIAT equivalents en cadascuna de les monedes o actius del propietari.
+»  Soporta un gran camp  de notes en l'enviament de pagaments (per les notes personals o notes al destinatari.)
+»  Comparteix l'aplicació Wallet Smartcoins am els teus amics per rebre recompenses  de $
+
+»  Pots escollir noms de comptes amigables; no utilitzar direccions críptiques llargues, ni números de compte, BIC/IBAN, codis Swift, etc.
+
+»   Senzilles característiques d'exportació permeten qué una o més transaccions puguin ser exportades  a PDF o CSV per a la seva comptabilitat.
+
+»  Els contactes poden ser organitzats per etiquetes de nom d'usuari.  Les notes i els avatars també estàn permesos.
+
+»  Comparteix de forma ràpida i fàcil la teva direcció de pagament a través de correu electrònic, xat, 
+wirelees, SMS, telèfon i la conexió a les xarxes socials.
+
+»  Supervisió de tots els saldos i transaccions en temps real; UI / UX no necessita mai de cap actualització.
+
+»  Molt més ràpid, més barat i més segur que portar DINERS EN EFECTIU O TARGETA.
+
+» Enviar qualsevol quantitat a qualsevol lloc … per uns pocs centaus … i en 3 segons o menys.
+
+Ara en 44 idiomes!
+
+----------Full de ruta ------------------
+
+v1.0.2
+»  Habilitació de  la funció de protecció contra sobregirs a comerços locals, configuració de la interfície de l'usuari.
+
+v1.0.3
+»  Brainkey còpia de seguretat després de la instal.lació inicial.
+
+v1.0.4
+» Importar les actualitzaions de traducció d'idiomes.
+
+V1.0.5
+» Ocultar la protecció de sobregir (element de backup) en cas de desus..
+» Embelleix i afegeix el logo del distribuïdor per a eReceipts rebudes de comerciants BlockPay.
+
+V1.1.0
+» Suport per a Bitcoin blockchain de manera que tots els titulars de BTC es puguin beneficar dels comerciants BlockPay, eReceipts, punts de fidelitat, protecció contra sobregirs, diverses monedes i l'emmagatzematge de béns, la xarxa més ràpida i escalable, 44 idiomes, comptes amb nom, anonimat, etc.
+
+v1.2.0
+» Suport per blockchain Dash, els mateixos avantatges que abans.
+
+v1.3.0
+» Bill Pay (recurrents i pagaments programats)
+» Suport NFC (enviar i rebre i per a telèfons antics)
+
+v2.0.0
+» Anonimat (el 100% anon. / Impossible de trobar, de coneixement 0 tx); Enviar / Rebre públiques/ Comptes / Contactes anònims.
+
+V2.1.0
+» Integració IPFS per emmagatzemar i recuperar les còpies de seguretat, arxius de so d'alerta i avatars, etc.
+» Comptes compartides (amb la seva parella)
+» Realitzar comandes amb anterioritat (per a qué el seu café estigui pagat i llest quan arribi a recollir-lo.)
+
+ - Contacti'ns-
+
+BitShares Munich
+»» http://BitShares-Munich.de
+»» http://meetup.com/BitShares-Munich (a conèixe'ns en persona!)
+»» http://youtube.com/BitSharesMunich-de (viídeos explicatius també) 
+
+Bugs i errors?
+Si us plau, deixi'ns saber:  https://github.com/kenCode-de/smartcoins-wallet/issues 
